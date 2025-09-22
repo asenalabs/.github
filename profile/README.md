@@ -6,7 +6,6 @@
   Open-source tools and experiments by asenalabs.
 </p>
 
-## 
 
 ##  🚀 About
 asenalabs is an open-source organization focused on building minimal, fast, and developer-friendly projects.  
@@ -26,4 +25,3 @@ Feel free to open an [issue](https://github.com/asenalabs/asena/issues) or submi
 ##  📜 License
 Unless otherwise noted, projects under **asenalabs** are released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Organization profile and templates for asenalabs.
