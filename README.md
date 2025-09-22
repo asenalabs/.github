@@ -2,8 +2,6 @@
   <img src="assets/logo.svg" alt="asenalabs logo" width="180"/>
 </p>
 
-<h1 align="center">asenalabs</h1>
-
 <p align="center">
   Open-source tools and experiments by asenalabs.
 </p>
