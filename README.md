@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="asenalabs logo" width="350"/>
+  <img src="assets/logo.svg" alt="asenalabs logo" width="800"/>
 </p>
 
 <p align="center">
   Open-source tools and experiments by asenalabs.
 </p>
 
+## 
 
 ## 🚀 About
 asenalabs is an open-source organization focused on building minimal, fast, and developer-friendly projects.  
