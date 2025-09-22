@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="asenalabs logo" width="700"/>
+  <img src="assets/logo.svg" alt="asenalabs logo" width="550"/>
 </p>
 
 <p align="center">
