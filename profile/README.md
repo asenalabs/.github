@@ -8,7 +8,7 @@
 
 
 ##  🚀 About
-asenalabs is an open-source organization focused on building minimal, fast, and developer-friendly projects.  
+**asenalabs** is an open-source organization focused on building minimal, fast, and developer-friendly projects.  
 Our flagship project is **[asena](https://github.com/asenalabs/asena)** – but this space will grow with more experiments over time.
 
 
